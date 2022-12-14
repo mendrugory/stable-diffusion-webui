@@ -7,7 +7,7 @@ gfpgan
 gradio==3.9
 clearml==1.7.2
 httpcore<=0.15
-requests==2.28.1
+# requests==2.28.1
 invisible-watermark
 numpy
 omegaconf
